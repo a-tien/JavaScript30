@@ -19,4 +19,10 @@
     <td><a href="https://a-tien.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/index.html">Clock</a></td>
     <td><a href="https://github.com/a-tien/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/JS_and_CSS_clock.md">05/15</a></td>
   </tr>
+  <tr>
+    <td>03</td>
+    <td>CSS Variables and JS</td>
+    <td><a href="https://a-tien.github.io/JavaScript30/03%20-%20CSS%20Variables/index.html">Image</a></td>
+    <td><a href="https://github.com/a-tien/JavaScript30/blob/master/03%20-%20CSS%20Variables/CSS_Variables.md">05/24</a></td>
+  </tr>
 </table>
