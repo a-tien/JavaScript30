@@ -25,4 +25,10 @@
     <td><a href="https://a-tien.github.io/JavaScript30/03%20-%20CSS%20Variables/index.html">Image</a></td>
     <td><a href="https://github.com/a-tien/JavaScript30/blob/master/03%20-%20CSS%20Variables/CSS_Variables.md">05/24</a></td>
   </tr>
+  <tr>
+    <td>04</td>
+    <td>Array Cardio Day1</td>
+    <td><a href="https://a-tien.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html">JS console</a></td>
+    <td><a href="https://github.com/a-tien/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/04_Array_Cardio_Day1.md">05/26</a></td>
+  </tr>
 </table>
