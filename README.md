@@ -37,4 +37,10 @@
     <td><a href="https://a-tien.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html">Flex Gallery</a></td>
     <td><a href="https://github.com/a-tien/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/05_Flex_Panel_Gallery.md">05/26</a></td>
   </tr>
+  <tr>
+    <td>05</td>
+    <td>Type Ahead</td>
+    <td><a href="https://a-tien.github.io/JavaScript30/06%20-%20Type%20Ahead/index.html">Search City</a></td>
+    <td><a href="https://github.com/a-tien/JavaScript30/blob/master/06%20-%20Type%20Ahead/06_Type_Ahead.md">05/26</a></td>
+  </tr>
 </table>
