@@ -1,5 +1,6 @@
 # Here is a-tien challenge to [JavaScript30](https://javascript30.com/)
 >2024/05/09 start my challenge!!! Hope that I can complete these courses before June.
+
 <table>
   <tr>
     <td><b>Day</b></td>
@@ -48,5 +49,11 @@
     <td>Array Cardio Day2</td>
     <td><a href="https://a-tien.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/index.html">JS console</a></td>
     <td><a href="https://github.com/a-tien/JavaScript30/blob/master/07%20-%20Array%20Cardio%20Day%202/07_Array_Cardio_Day_2.md">05/26</a></td>
+  </tr>
+  <tr>
+    <td>08</td>
+    <td>Fun with HTML5 Canvas</td>
+    <td><a href="https://a-tien.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html">Canvas</a></td>
+    <td><a href="https://github.com/a-tien/JavaScript30/blob/master/08%20-%20Fun%20with%20HTML5%20Canvas/08_Fun_with_HTML5_Canvas.md">05/27</a></td>
   </tr>
 </table>
