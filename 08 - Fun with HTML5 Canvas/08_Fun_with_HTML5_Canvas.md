@@ -27,6 +27,5 @@ ctx.lineTo(e.offsetX, e.offsetY); // end point
 ctx.stroke(); // complete the line
 ```
 
-
-
-
+參考
+https://www.w3schools.com/jsref/api_canvas.asp
