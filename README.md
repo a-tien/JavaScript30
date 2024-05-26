@@ -38,9 +38,15 @@
     <td><a href="https://github.com/a-tien/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/05_Flex_Panel_Gallery.md">05/26</a></td>
   </tr>
   <tr>
-    <td>05</td>
+    <td>06</td>
     <td>Type Ahead</td>
     <td><a href="https://a-tien.github.io/JavaScript30/06%20-%20Type%20Ahead/index.html">Search City</a></td>
     <td><a href="https://github.com/a-tien/JavaScript30/blob/master/06%20-%20Type%20Ahead/06_Type_Ahead.md">05/26</a></td>
+  </tr>
+  <tr>
+    <td>07</td>
+    <td>Array Cardio Day2</td>
+    <td><a href="https://a-tien.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/index.html">JS console</a></td>
+    <td><a href="https://github.com/a-tien/JavaScript30/blob/master/07%20-%20Array%20Cardio%20Day%202/07_Array_Cardio_Day_2.md">05/26</a></td>
   </tr>
 </table>
