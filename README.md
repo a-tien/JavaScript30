@@ -62,4 +62,10 @@
     <td><a href="https://a-tien.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/index.html">Dev Tools</a></td>
     <td><a href="https://github.com/a-tien/JavaScript30/blob/master/09%20-%20Dev%20Tools%20Domination/09_Dev_Tools_Domination.md">05/27</a></td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td>Checkboxes</td>
+    <td><a href="https://a-tien.github.io/JavaScript3010%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html">Checkbox between</a></td>
+    <td><a href="https://github.com/a-tien/JavaScript30/blob/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/10_Hold_Shift_and_Check_Checkboxes.md">05/27</a></td>
+  </tr>
 </table>
