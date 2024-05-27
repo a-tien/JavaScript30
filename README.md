@@ -56,4 +56,10 @@
     <td><a href="https://a-tien.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html">Canvas</a></td>
     <td><a href="https://github.com/a-tien/JavaScript30/blob/master/08%20-%20Fun%20with%20HTML5%20Canvas/08_Fun_with_HTML5_Canvas.md">05/27</a></td>
   </tr>
+  <tr>
+    <td>09</td>
+    <td>Dev Tools Domination</td>
+    <td><a href="https://a-tien.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/index.html">Dev Tools</a></td>
+    <td><a href="https://github.com/a-tien/JavaScript30/blob/master/09%20-%20Dev%20Tools%20Domination/09_Dev_Tools_Domination.md">05/27</a></td>
+  </tr>
 </table>
